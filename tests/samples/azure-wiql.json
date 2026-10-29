@@ -1,0 +1,36 @@
+{
+ "queryType": "flat",
+ "queryResultType": "workItem",
+ "asOf": "2026-10-27T11:49:00.803Z",
+ "columns": [
+  {
+   "referenceName": "System.Id",
+   "name": "ID",
+   "url": "https://dev.azure.com/myorg/_apis/wit/fields/System.Id"
+  }
+ ],
+ "sortColumns": [
+  {
+   "field": {
+    "referenceName": "System.Id",
+    "name": "ID",
+    "url": "https://dev.azure.com/myorg/_apis/wit/fields/System.Id"
+   },
+   "descending": false
+  }
+ ],
+ "workItems": [
+  {
+   "id": 1,
+   "url": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/1"
+  },
+  {
+   "id": 2,
+   "url": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/2"
+  },
+  {
+   "id": 3,
+   "url": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3"
+  }
+ ]
+}

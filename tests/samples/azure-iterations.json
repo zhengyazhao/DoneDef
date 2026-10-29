@@ -1,0 +1,16 @@
+{
+ "count": 1,
+ "value": [
+  {
+   "id": "<guid>",
+   "name": "Sprint 1",
+   "path": "myproject\\Sprint 1",
+   "attributes": {
+    "startDate": null,
+    "finishDate": null,
+    "timeFrame": "current"
+   },
+   "url": "https://dev.azure.com/myorg/<guid>/<guid>/_apis/work/teamsettings/iterations/<guid>"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "id": 3,
+ "rev": 2,
+ "fields": {
+  "System.AreaPath": "myproject",
+  "System.TeamProject": "myproject",
+  "System.IterationPath": "myproject",
+  "System.WorkItemType": "Task",
+  "System.State": "To Do",
+  "System.Reason": "Added to backlog",
+  "System.CreatedDate": "2020-09-07T06:24:29.45Z",
+  "System.CreatedBy": {
+   "displayName": "<redacted>",
+   "url": "https://spsprodsea1.vssps.visualstudio.com/A<guid>/_apis/Identities/<guid>",
+   "_links": {
+    "avatar": {
+     "href": "https://dev.azure.com/myorg/_apis/GraphProfile/MemberAvatars/msa.<redacted>"
+    }
+   },
+   "id": "<guid>",
+   "uniqueName": "<redacted>",
+   "imageUrl": "<redacted>",
+   "descriptor": "<redacted>"
+  },
+  "System.ChangedDate": "2026-10-27T07:13:44.647Z",
+  "System.ChangedBy": {
+   "displayName": "<redacted>",
+   "url": "https://spsprodsea1.vssps.visualstudio.com/A<guid>/_apis/Identities/<guid>",
+   "_links": {
+    "avatar": {
+     "href": "https://dev.azure.com/myorg/_apis/GraphProfile/MemberAvatars/msa.<redacted>"
+    }
+   },
+   "id": "<guid>",
+   "uniqueName": "<redacted>",
+   "imageUrl": "<redacted>",
+   "descriptor": "<redacted>"
+  },
+  "System.CommentCount": 1,
+  "System.Title": "测试",
+  "Microsoft.VSTS.Common.StateChangeDate": "2020-09-07T06:24:29.45Z",
+  "Microsoft.VSTS.Common.Priority": 2,
+  "System.History": "评论接口测试（只发评论、不改状态），可忽略。"
+ },
+ "multilineFieldsFormat": {
+  "System.History": "html"
+ },
+ "commentVersionRef": {
+  "commentId": 12915456,
+  "version": 1,
+  "url": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3/comments/12915456/versions/1"
+ },
+ "_links": {
+  "self": {
+   "href": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3"
+  },
+  "workItemUpdates": {
+   "href": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3/updates"
+  },
+  "workItemRevisions": {
+   "href": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3/revisions"
+  },
+  "workItemComments": {
+   "href": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3/comments"
+  },
+  "html": {
+   "href": "https://dev.azure.com/myorg/<guid>/_workitems/edit/3"
+  },
+  "workItemType": {
+   "href": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItemTypes/Task"
+  },
+  "fields": {
+   "href": "https://dev.azure.com/myorg/<guid>/_apis/wit/fields"
+  }
+ },
+ "url": "https://dev.azure.com/myorg/<guid>/_apis/wit/workItems/3"
+}
